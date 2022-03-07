@@ -2,6 +2,8 @@
 
 Exemple d'architecture en PHP MySQL
 
+## Lancement
+
 ```
 Commande pour lancer votre projet PHP
 
