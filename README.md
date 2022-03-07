@@ -3,6 +3,7 @@
 Exemple d'architecture en PHP MySQL
 
 ```
-Commande pour lancer votre projet PHP
+<b>Commande pour lancer votre projet PHP</b>
+
 php -S localhost:8000
 ```
