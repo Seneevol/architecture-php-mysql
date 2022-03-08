@@ -9,7 +9,7 @@ Exemple d'architecture en PHP MySQL
 ## Pre-requisites
 
 ```
-install php and php-mysql packages
+install php-7.4.3 and php-mysql packages
 ```
 
 ## Startup
