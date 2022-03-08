@@ -12,7 +12,7 @@ Exemple d'architecture en PHP MySQL
 install php and php-mysql packages
 ```
 
-## Lancement
+## Startup
 
 ```
 To start your php project
